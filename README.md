@@ -1,2 +1,2 @@
 # ISAC
-There are some resolved  tasks from course of Data Mining 
+There are project and some resolved  tasks from course of Data Mining and Information retrieval
